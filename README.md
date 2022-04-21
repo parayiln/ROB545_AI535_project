@@ -8,9 +8,9 @@ https://deepakjogi.medium.com/how-to-install-pybullet-physics-simulation-in-wind
 Installing Pybullet for linux
 
 
-sudo apt-get install python3
-sudo apt install python3-pip
-sudo pip3 install pybullet
-python3 -m pip show pybullet
+sudo apt-get install python3 \
+sudo apt install python3-pip\
+sudo pip3 install pybullet \
+python3 -m pip show pybullet \
 
 Pybullet documentation guide: https://docs.google.com/document/d/10sXEhzFRSnvFcl3XxNGhnD4N2SedqwdAvK3dsihxVUA/edit#heading=h.2ye70wns7io3
